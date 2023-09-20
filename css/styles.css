@@ -43,7 +43,10 @@ body {
 .link {
     text-decoration: none;
 }
-.nav-list {
+.nav-menu {
+}
+.list{
+    list-style: none;
 }
 .nav-item {
     
