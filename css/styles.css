@@ -65,7 +65,7 @@ body {
 .link{
     text-decoration: none;
 }
-.nav-link :focus {
+.nav-link:focus {
     color: var(--pressed-color);
 }
 .accent{
