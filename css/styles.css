@@ -151,7 +151,9 @@ body {
 .benefits-subtitle {
     font-weight: 500;
     font-size: 20px;
+    line-height: 1.2;
     letter-spacing: 0.02em;
+    color: var(--dark-color);
 }
 .benefits-text {
     font-size: 16px;
@@ -249,6 +251,12 @@ body {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: var(--herobck-color);
+}
+.media-link:focus{
+    color: var(--pressed-color);
+}
+.contact-link:focus{
+    color: var(--pressed-color);
 }
 
 /* portfolio-interactive section */
